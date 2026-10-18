@@ -1,0 +1,8 @@
+{
+  "source": "https://github.com/juanosorio-alt/EGN321-Assignment6-1/blob/main/results/primary/module6_sensor_history.db",
+  "local_file": "data/module6_history.db",
+  "sha256": "e5cc40ac3a9e489473954fe126a52daf72023bf9ee7327195ec03e57100c1823",
+  "instructor_reference": "https://github.com/ivansuarez-AU/EGN321_Module7_Assignment7_1",
+  "archive_rows": 125,
+  "provenance": "Module 6 primary database; original timestamp and status fields unchanged"
+}

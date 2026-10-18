@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "old_pid": 46544,
+  "new_pid": 46715,
+  "recovery_seconds": 1.2393007499995292,
+  "rows_before": 20,
+  "rows_after": 21,
+  "history_rows": 125,
+  "history_unchanged": true,
+  "prior_live_rows_unchanged": true,
+  "sqlite_integrity": "ok",
+  "final_health": "HEALTHY",
+  "restart_count": 1,
+  "test_method": "SIGKILL of actual Flask child; supervisor stayed alive; HTTP dashboard and API verified"
+}
