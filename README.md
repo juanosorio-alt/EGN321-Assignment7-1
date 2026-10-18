@@ -108,4 +108,4 @@ Human intervention is still required for supervisor/host failure, suspended comp
 
 The [instructor's Module 7 repository](https://github.com/ivansuarez-AU/EGN321_Module7_Assignment7_1) guided the requirements and persistence/hysteresis approach. This project adds its own HTML dashboard, Module 6 archive integration, receipt-time monitoring, transactional checkpoint and recovery verification. Instructor screenshots and logs are not reused as student execution evidence. Meaningful AI assistance and verification are recorded in `AI_LOG.md`.
 
-GitHub publication is pending for this assignment.
+GitHub repository: https://github.com/juanosorio-alt/EGN321-Assignment7-1
